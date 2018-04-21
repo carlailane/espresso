@@ -1,0 +1,5 @@
+The "ipython notebook files" folder contains follows about the aggregating measure.
+
+The files which have "_cl" in the end of nome refers to classification model.
+
+The others files cis related to regression model.
